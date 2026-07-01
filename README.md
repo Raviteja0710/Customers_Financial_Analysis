@@ -1,4 +1,3 @@
-# Customers_Financial_Analysis
 
 <h1 align="center">💰 FinSight - Finance Analytics Dashboard</h1>
 
